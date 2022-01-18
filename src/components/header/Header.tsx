@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
     return (
         <div>
-            since header
+            the header help ur to create a nav
         </div>
     )
 }
